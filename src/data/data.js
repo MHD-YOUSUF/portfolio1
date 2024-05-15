@@ -1,5 +1,4 @@
 import project1 from "../assets/ecommerce-websites.jpg";
-//import project2 from "../assets/quote.png";
 import project3 from "../assets/registration.png";
 
 export const data = [
@@ -19,12 +18,5 @@ export const data = [
     link: "",
     git: "https://github.com/MHD-YOUSUF/registration-form",
   },
-  {
-    id: 4,
-    img: project2,
-    title: "A Random Qoute-generator, Built with Html,Css & JavaScript",
-    desc:"This project aims to enhance my proficiency in front-end development technologies such as HTML, CSS, and JavaScript, as well as my skills in integrating with external APIs. Additionally, it serves as a demonstration of my ability to design and implement interactive and engaging user experiences on the web",
-    link: "https://mhd-yousuf.github.io/Qoute-generator/",
-    git: "https://github.com/MHD-YOUSUF/Qoute-generator",
-  },
+  
 ];
