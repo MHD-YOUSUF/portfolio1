@@ -1,5 +1,5 @@
 import project1 from "../assets/ecommerce-websites.jpg";
-import project2 from "../assets/quote.png";
+//import project2 from "../assets/quote.png";
 import project3 from "../assets/registration.png";
 
 export const data = [
